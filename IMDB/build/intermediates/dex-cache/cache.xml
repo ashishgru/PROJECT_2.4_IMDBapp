@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Andriod\PROJECT_2.4\IMDB\app\build\intermediates\exploded-aar\com.android.volley\volley\1.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="D:\Andriod\PROJECT_2.4\IMDB\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.volley-volley-1.0.0_7d0b742e19ea7ab0a447e9627f07e3a049339e13\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Andriod\PROJECT_2.4\IMDB\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="D:\Andriod\PROJECT_2.4\IMDB\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.1_8a725698c91b3491535f3c3af0c8848417c18882\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Andriod\PROJECT_2.4\IMDB\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="D:\Andriod\PROJECT_2.4\IMDB\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_b039bcd0bbb88d5297c0881cf42b0de232ebb282\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WINDOWS 8.1\.gradle\caches\modules-2\files-2.1\com.nostra13.universalimageloader\universal-image-loader\1.9.5\442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375\universal-image-loader-1.9.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375">
+        <dex dex="D:\Andriod\PROJECT_2.4\IMDB\app\build\intermediates\transforms\dex\debug\folders\1000\10\universal-image-loader-1.9.5_7cf18b1f2d3b49f135047b3e03ef38636555042e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Andriod\PROJECT_2.4\IMDB\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="D:\Andriod\PROJECT_2.4\IMDB\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.1_dd04df52c6c79c0d14aee6e040fb10508212b633\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Andriod\PROJECT_2.4\IMDB\app\build\intermediates\exploded-aar\com.android.support\design\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="D:\Andriod\PROJECT_2.4\IMDB\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.0.1_9cdd819167682454d3eff3a6ff8f9725ea17b184\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Andriod\PROJECT_2.4\IMDB\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="D:\Andriod\PROJECT_2.4\IMDB\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_c22fe62720a26a64fb0c9f904b3bd560acb9eba0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Andriod\PROJECT_2.4\IMDB\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="D:\Andriod\PROJECT_2.4\IMDB\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_57a06a024468aaf9a480138292881cd4279a9d01\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Andriod\PROJECT_2.4\IMDB\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="D:\Andriod\PROJECT_2.4\IMDB\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-25.0.1_f90793be6b185305837823a2ccb0853fe0932f5b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Andriod\PROJECT_2.4\IMDB\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="D:\Andriod\PROJECT_2.4\IMDB\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.1_8959d8f438411a0974cb1bf0404dea89327a2a66\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Andriod\PROJECT_2.4\IMDB\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="D:\Andriod\PROJECT_2.4\IMDB\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.0.1_e86412455da50687d4c0b073dcae128557344890\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Andriod\PROJECT_2.4\IMDB\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="D:\Andriod\PROJECT_2.4\IMDB\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.1_6cb58f4ebc89da30924fe85bebed5ade1e188a54\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\WINDOWS 8.1\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="D:\Andriod\PROJECT_2.4\IMDB\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.1_b172d76dd83e27d8c6419b56d55a6542fdf60f6f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Andriod\PROJECT_2.4\IMDB\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="D:\Andriod\PROJECT_2.4\IMDB\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.0.1_51b80727f54a8b5a44e9c072ff02eaec147f5df7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Andriod\PROJECT_2.4\IMDB\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4bf80e21bb520f0f5cd9de247cbe7e922cec9005">
+        <dex dex="D:\Andriod\PROJECT_2.4\IMDB\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_f2635e27ff8d2ae9768f4ab0b6c98289c8738cb6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Andriod\PROJECT_2.4\IMDB\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="D:\Andriod\PROJECT_2.4\IMDB\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.1_cfa5e8b1b61b0cdc288929f4d00447d3f92a9ca2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Andriod\PROJECT_2.4\IMDB\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="dca9a5f5738e6a06472b226795c85bdf6f339fe8">
+        <dex dex="D:\Andriod\PROJECT_2.4\IMDB\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_45dfd3cefab9321d6d7b88687572ca4d1466d3e7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Andriod\PROJECT_2.4\IMDB\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="D:\Andriod\PROJECT_2.4\IMDB\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_ed52e207cc124ce43e3610db8b0e8a164938e734\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Andriod\PROJECT_2.4\IMDB\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="D:\Andriod\PROJECT_2.4\IMDB\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.1_51b4aecf498a76525e2f11224153cd01a5580259\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Andriod\PROJECT_2.4\IMDB\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Andriod\PROJECT_2.4\IMDB\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.1_c4fbd30c5c3d0680101e1db6857c133e751242a5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Andriod\PROJECT_2.4\IMDB\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="D:\Andriod\PROJECT_2.4\IMDB\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.1_0bbe73ac1ad1beddab505f7ba3912e6df497156b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Andriod\PROJECT_2.4\IMDB\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="D:\Andriod\PROJECT_2.4\IMDB\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.1_28d2bfb8fe1e68ac62f17aae26d21272e6a90667\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Andriod\PROJECT_2.4\IMDB\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="D:\Andriod\PROJECT_2.4\IMDB\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_0e5dbe82186d7dd8e46bf1c5eacbb9fc52ac25d6\classes.dex" />
+    </item>
+
+</items>
